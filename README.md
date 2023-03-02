@@ -1,7 +1,7 @@
 # 으에..
 
 취미로 코딩함미다 관심있는거 이것저것 찍먹중   
-요즘은 백준 풀어보고 있슴미다
+요즘은 백준 풀면서 알고리즘 공부하고 있슴미다 
    
 a person who coding as a hobby     
 interested in gmae/web development. Recently, study algorithms
