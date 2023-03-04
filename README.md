@@ -4,7 +4,7 @@
 요즘은 백준 풀면서 알고리즘 공부하고 있슴미다 
    
 a person who coding as a hobby     
-interested in gmae/web development. Recently, study algorithms
+interested in gmae development. Recently, study algorithms
    
       
       
