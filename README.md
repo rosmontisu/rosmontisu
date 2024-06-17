@@ -1,6 +1,7 @@
 ## 헉 나는 누구지??
 > Im not a specialist in this field, so I lack relevant knowledge.    
-> but I like programming and PS (serve in the military 2023.01~)   
+> but I like programming and PS   
+> (serve in the military 2023.01~)   
 
 ### languages and Frameworks in study
 ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
