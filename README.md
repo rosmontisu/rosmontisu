@@ -6,6 +6,7 @@
 ### languages and Frameworks in study
 ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/node-F7DF1E?logo=nodedotjs&logoColor=fff)
+![](https://img.shields.io/badge/.NET-512BD4?logo=csharp&logoColor=fff)
 ![](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=fff)
 ![](https://img.shields.io/badge/git-3C2179?logo=git&logoColor=fff)    
 
