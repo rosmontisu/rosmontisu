@@ -1,6 +1,7 @@
 ## 헉 나는 누구지??
 > 프로그래밍을 좋아하는 일어교육과 학생입니다.    
-> 지금은 군휴학중이에요! (2023.01~)    
+> 지금은 군휴학중이에요! (2023.01~)
+>     
 > Im not a specialist in this field, so I lack relevant knowledge.    
 > but I like programming and PS   
 > (serve in the military 2023.01~)   
