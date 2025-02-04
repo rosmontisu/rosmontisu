@@ -15,6 +15,6 @@
 --
 [![wakatime](https://wakatime.com/badge/user/59029d52-03e3-4d94-8c10-24411c6c314e.svg)](https://wakatime.com/@59029d52-03e3-4d94-8c10-24411c6c314e)   
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rosmontisu)](https://solved.ac/rosmontisu/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rosmontis)](https://solved.ac/rosmontis/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosmontisu&hide_progress=true)
 
